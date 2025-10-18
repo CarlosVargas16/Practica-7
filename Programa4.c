@@ -1,6 +1,5 @@
 /* Vargas Rodriguez Carlos Antonio
-Programa 4*/
-
+Ejercicio 4*/
 
 #include <stdio.h>
 int main()
