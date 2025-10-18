@@ -1,6 +1,5 @@
-/+Vargas Rodriguez Carlos Antonio
-Programa 7*/
-
+/*Vargas Rodriguez Carlos Antonio
+Ejercicio 7*/
 
 #include <stdio.h>
 int main()
